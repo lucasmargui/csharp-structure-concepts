@@ -1,0 +1,13 @@
+E:\Projetos\C#\Classes\override\Override\Override\bin\Debug\netcoreapp3.1\Override.exe
+E:\Projetos\C#\Classes\override\Override\Override\bin\Debug\netcoreapp3.1\Override.deps.json
+E:\Projetos\C#\Classes\override\Override\Override\bin\Debug\netcoreapp3.1\Override.runtimeconfig.json
+E:\Projetos\C#\Classes\override\Override\Override\bin\Debug\netcoreapp3.1\Override.runtimeconfig.dev.json
+E:\Projetos\C#\Classes\override\Override\Override\bin\Debug\netcoreapp3.1\Override.dll
+E:\Projetos\C#\Classes\override\Override\Override\bin\Debug\netcoreapp3.1\Override.pdb
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.csproj.AssemblyReference.cache
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.AssemblyInfoInputs.cache
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.AssemblyInfo.cs
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.dll
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.pdb
+E:\Projetos\C#\Classes\override\Override\Override\obj\Debug\netcoreapp3.1\Override.genruntimeconfig.cache

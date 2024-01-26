@@ -1,0 +1,13 @@
+E:\Projetos\C#\Classes\Extensao\Extensao\bin\Debug\netcoreapp3.1\Extensao.exe
+E:\Projetos\C#\Classes\Extensao\Extensao\bin\Debug\netcoreapp3.1\Extensao.deps.json
+E:\Projetos\C#\Classes\Extensao\Extensao\bin\Debug\netcoreapp3.1\Extensao.runtimeconfig.json
+E:\Projetos\C#\Classes\Extensao\Extensao\bin\Debug\netcoreapp3.1\Extensao.runtimeconfig.dev.json
+E:\Projetos\C#\Classes\Extensao\Extensao\bin\Debug\netcoreapp3.1\Extensao.dll
+E:\Projetos\C#\Classes\Extensao\Extensao\bin\Debug\netcoreapp3.1\Extensao.pdb
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.csproj.AssemblyReference.cache
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.AssemblyInfoInputs.cache
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.AssemblyInfo.cs
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.dll
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.pdb
+E:\Projetos\C#\Classes\Extensao\Extensao\obj\Debug\netcoreapp3.1\Extensao.genruntimeconfig.cache

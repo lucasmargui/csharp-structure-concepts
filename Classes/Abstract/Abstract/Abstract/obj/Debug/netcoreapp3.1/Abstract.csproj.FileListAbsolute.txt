@@ -1,0 +1,13 @@
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache
+E:\Projetos\C#\Classes\Abstract\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.AssemblyReference.cache

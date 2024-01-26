@@ -1,0 +1,12 @@
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+E:\Projetos\C#\Classes\Classes\Herança\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
