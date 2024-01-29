@@ -19,9 +19,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Bookstore;
+
 
 namespace Delegate
 {
+
+    delegate void NotifyCallback(string str);
+    public delegate void SimplesDelegate();
+
+
+
+
     public class Boleto
     {
         public void Pagar(double valor)
@@ -57,5 +66,29 @@ namespace Delegate
             this.Pagar(valor);
         }
     }
+
+
+
+    //Exemplo 4
+    // Class to total and average prices of books:
+    class PriceTotaller
+    {
+        int countBooks = 0;
+        decimal priceBooks = 0.0m;
+
+        internal void AddBookToTotal(Book book)
+        {
+            countBooks += 1;
+            priceBooks += book.Price;
+        }
+
+        internal decimal AveragePrice()
+        {
+            return priceBooks / countBooks;
+        }
+    }
+
+
+
 
 }

@@ -1,0 +1,13 @@
+E:\Projetos\C#\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+E:\Projetos\C#\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+E:\Projetos\C#\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+E:\Projetos\C#\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+E:\Projetos\C#\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+E:\Projetos\C#\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.AssemblyReference.cache
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+E:\Projetos\C#\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
