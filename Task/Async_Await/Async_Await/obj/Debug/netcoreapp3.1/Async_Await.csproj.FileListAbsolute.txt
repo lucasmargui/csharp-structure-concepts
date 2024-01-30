@@ -1,0 +1,12 @@
+E:\Projetos\C#\Task\Async_Await\Async_Await\bin\Debug\netcoreapp3.1\Async_Await.exe
+E:\Projetos\C#\Task\Async_Await\Async_Await\bin\Debug\netcoreapp3.1\Async_Await.deps.json
+E:\Projetos\C#\Task\Async_Await\Async_Await\bin\Debug\netcoreapp3.1\Async_Await.runtimeconfig.json
+E:\Projetos\C#\Task\Async_Await\Async_Await\bin\Debug\netcoreapp3.1\Async_Await.runtimeconfig.dev.json
+E:\Projetos\C#\Task\Async_Await\Async_Await\bin\Debug\netcoreapp3.1\Async_Await.dll
+E:\Projetos\C#\Task\Async_Await\Async_Await\bin\Debug\netcoreapp3.1\Async_Await.pdb
+E:\Projetos\C#\Task\Async_Await\Async_Await\obj\Debug\netcoreapp3.1\Async_Await.AssemblyInfoInputs.cache
+E:\Projetos\C#\Task\Async_Await\Async_Await\obj\Debug\netcoreapp3.1\Async_Await.AssemblyInfo.cs
+E:\Projetos\C#\Task\Async_Await\Async_Await\obj\Debug\netcoreapp3.1\Async_Await.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Task\Async_Await\Async_Await\obj\Debug\netcoreapp3.1\Async_Await.dll
+E:\Projetos\C#\Task\Async_Await\Async_Await\obj\Debug\netcoreapp3.1\Async_Await.pdb
+E:\Projetos\C#\Task\Async_Await\Async_Await\obj\Debug\netcoreapp3.1\Async_Await.genruntimeconfig.cache
