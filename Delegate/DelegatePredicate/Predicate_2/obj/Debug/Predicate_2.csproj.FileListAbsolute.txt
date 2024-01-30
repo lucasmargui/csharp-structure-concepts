@@ -1,0 +1,6 @@
+C:\_csharp\Delegate_Predicate\Predicate_2\obj\Debug\Predicate_2.csprojResolveAssemblyReference.cache
+C:\_csharp\Delegate_Predicate\Predicate_2\bin\Debug\Predicate_2.exe.config
+C:\_csharp\Delegate_Predicate\Predicate_2\bin\Debug\Predicate_2.exe
+C:\_csharp\Delegate_Predicate\Predicate_2\bin\Debug\Predicate_2.pdb
+C:\_csharp\Delegate_Predicate\Predicate_2\obj\Debug\Predicate_2.exe
+C:\_csharp\Delegate_Predicate\Predicate_2\obj\Debug\Predicate_2.pdb

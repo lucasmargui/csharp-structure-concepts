@@ -1,0 +1,6 @@
+C:\_csharp\Delegate_Predicate\Delegate_Predicate\bin\Debug\Delegate_Predicate.exe.config
+C:\_csharp\Delegate_Predicate\Delegate_Predicate\bin\Debug\Delegate_Predicate.exe
+C:\_csharp\Delegate_Predicate\Delegate_Predicate\bin\Debug\Delegate_Predicate.pdb
+C:\_csharp\Delegate_Predicate\Delegate_Predicate\obj\Debug\Delegate_Predicate.csprojResolveAssemblyReference.cache
+C:\_csharp\Delegate_Predicate\Delegate_Predicate\obj\Debug\Delegate_Predicate.exe
+C:\_csharp\Delegate_Predicate\Delegate_Predicate\obj\Debug\Delegate_Predicate.pdb
