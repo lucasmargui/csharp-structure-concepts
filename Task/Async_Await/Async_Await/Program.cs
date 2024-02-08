@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -25,10 +26,28 @@ namespace Async_Await
 			}
 		}
 
+		void DoIndependentWork()
+		{
+			Console.WriteLine("Working...");
+		}
 
+		public async Task<int> GetUrlContentLengthAsync()
+		{
+			var client = new HttpClient();
+
+			Task<string> getStringTask =
+				client.GetStringAsync("https://learn.microsoft.com/dotnet");
+
+			DoIndependentWork();
+
+			string contents = await getStringTask;
+
+			return contents.Length;
+		}
 
 		static void Main(string[] args)
 		{
+			//Exemplo 1
 			ImprimirNumerosPrimos();
 			Console.ReadLine();
 
